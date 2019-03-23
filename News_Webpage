@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <title> News Site</title>
+  </head>
+  <body>
+      <header>
+        <h1>News Foundation</h1>
+      </header>
+
+      <main>
+        <section>
+        <a href = '#'><h4>About me</h4></a>
+          <p>hi, i am Gauransh Bhutani.</p>
+          <div> My friends call me Gaurie.</div>
+        </section>
+
+        <section>
+          <article>
+        <a href = '#'><h4>boy plays game whole day</h4></a>
+          <p>boy plays game whole day.</p>
+          </article>
+        </section>
+
+        <section>
+          <article>
+        <a href = '#'><h4>girl plays game whole day</h4></a>
+          <p>girl plays game whole day.</p>
+          </article>
+        </section>
+
+        <footer>
+          <center> &copy; 2019 <br />
+          <a href = '#'> Terms of Service</a></center>
+        </footer>
+      </main>
+  </body>
+</html>
