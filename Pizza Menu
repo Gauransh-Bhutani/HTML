@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>
+TABLES
+    </title>
+  </head>
+  <body>
+    <h1>Tables pizza Menu </h1>
+    <main>
+          <table width=100%, border='2px'>
+              <thead>
+                    <tr>
+                      <th width=200>  TYPE    </th>
+                      <th width=200>Ingredients</th>
+                      <th width=200>Size</th>
+                      <th width=200>Price</th>
+                    </tr>
+              </thead>
+
+              <tbody>
+                <tr>
+                    <td>Margarita</td>
+                    <td>Plain Cheese</td>
+                    <td>9 inches</td>
+                    <td>5 Euros</td>
+                </tr>
+
+                <tr>
+                  <td>BBQ chicken</td>
+                  <td>bbq chicken and sauce</td>
+                  <td>9 inches</td>
+                  <td>7 Euros</td>
+                </tr>
+              </tbody>
+          </table>
+    </main>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<footer>&copy; Copyright 2019</footer>
+
+  </body>
+</html>
