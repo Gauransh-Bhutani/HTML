@@ -1,0 +1,60 @@
+<html>
+    <head>
+        <style>
+            body {background-color:rgb(133, 245, 4);}
+            h1 { height: 20px;
+                  margin: 75px 500px;}
+            form { height: 40px;
+                   margin: 75px 500px;
+                   color:rgb(1, 0, 7);}
+            form > h4{ color:rgb(16, 54, 221);}
+
+            form > button { color: rgb(43, 22, 224);
+                            height:25px;}
+        </style>
+    </head>
+        <title></title>
+    
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<!-- <img source='/users/gauranshraja/desktop/bg-01.jpg' alt='background'> -->
+<align center>
+    <div> <h1> Login Page</h1> </div></align>
+<section id = 'LOGIN PAGE'>
+<form method = 'GET'>
+<input  type= 'text' placeholder=' Enter Email ID' />
+<BR>
+<input type='password' placeholder='Password' />
+<br>
+<br>
+<button type='button'> login  </button>
+
+<h4> Please select your profession: </h4>
+<input type = 'radio' /> Student 
+<br>
+
+<input type = 'radio' /> Employee
+<br>
+
+<input type = 'radio' /> Ex employee 
+<br>
+
+<input type='checkbox' /> Student
+<input type='checkbox' /> Student11
+
+<h3> OR LOGIN THROUGH: </h3>
+
+<BR> <BR>
+
+</form>
+<link rel = ' stylesheet' href ='FORM.css'>
+
+<!-- /users/gauranshraja/desktop/CSS/ -->
+
+
+</section>
+</html>
